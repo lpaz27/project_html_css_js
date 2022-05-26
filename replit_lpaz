@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <h1>Dr. Informática</h1>
+</head>
+
+<body>
+
+  <p>Soluções para pequenas e médias empresas.</p>
+  <script src="script.js"></script>
+  <img src="https://th.bing.com/th/id/OIP.JhTrc9OEzSNy2sxOsLGqXgHaED?pid=ImgDet&rs=1">
+  <p> Soluções para a sua empresa:</p>
+  <ul>
+    <li>Suporte Técnico </li>
+    <li>Implantação/ Treinamento </li>
+    <li>Desenvolvimento de </li>
+    <li> Redes e Telefonia</li>
+    <li> Sistemas</li>
+    <li> Servidores</li>
+  </ul>
+
+  <p> Cadastre seu e-mail e receba as novidades!</p>
+  <form action="https://www.freecatphotoapp.com/submit-cat-photo">
+    <input type="text" placeholder="Escreva seu e-mail aqui" required>
+    <button type="submit">Enviar</button>
+  </form>
+
+</body>
+
+</html>
